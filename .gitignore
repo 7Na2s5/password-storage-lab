@@ -1,0 +1,21 @@
+# Environnements et fichiers générés
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+*.log
+*.pem
+*.key
+*.prv
+*.pcap*
+instance/
+.coverage
+.pytest_cache/
